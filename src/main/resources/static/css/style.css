@@ -1,0 +1,28 @@
+h1 {
+    font-family: "Arial Black",Gadget,sans-serif;
+}
+#user {
+    position: fixed;
+    left: 1cm;
+    top: 5%;
+    width:4cm;
+
+    z-index: 1;
+   }
+#messageProperites {
+    position: static;
+    text-align: center;
+
+}
+
+#messages {
+    position: relative;
+    width: 5cm;
+    top: 1.5cm;
+    left: 6cm;
+    width: 25cm;
+    z-index: 0;
+}
+body {
+    background-color: darkseagreen;
+}
